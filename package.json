@@ -1,0 +1,19 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "app that tell jokes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianBrands/joker.git"
+  },
+  "author": "Adrian Brandshaug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianBrands/joker/issues"
+  },
+  "homepage": "https://github.com/adrianBrands/joker#readme"
+}
