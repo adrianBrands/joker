@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/adrianBrands/joker/issues"
   },
-  "homepage": "https://github.com/adrianBrands/joker#readme"
+  "homepage": "https://github.com/adrianBrands/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
